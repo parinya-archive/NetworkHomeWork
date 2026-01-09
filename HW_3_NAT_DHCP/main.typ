@@ -4,3 +4,5 @@
 
 #include "chapters/secrtion_1.typ"
 #include "chapters/secrtion_2.typ"
+
+#bibliography("ref.yaml")

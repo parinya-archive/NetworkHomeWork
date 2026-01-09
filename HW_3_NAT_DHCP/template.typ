@@ -39,7 +39,7 @@
   set text(
     // ใช้ Font Stack: ภาษาอังกฤษใช้ Inter, ไทยใช้ Sarabun (ต้องมีฟอนต์ในเครื่อง)
     font: ("Inter"),
-    lang: "th", // ตั้งเป็น th เพื่อการตัดคำภาษาไทยที่ถูกต้อง
+    lang: "en", // ตั้งเป็น th เพื่อการตัดคำภาษาไทยที่ถูกต้อง
     size: 11pt,
     weight: "regular",
     fill: primary-color,
@@ -101,7 +101,7 @@
 
   // Links
   show link: it => {
-    text(fill: accent-color, underline: true, it)
+    text(fill: accent-color, it)
   }
 
   // --- 6. TITLE BLOCK (หน้าแรก) ---

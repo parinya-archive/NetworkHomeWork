@@ -12,11 +12,11 @@
   + Network ต้องไม้ block package
   Nat ทำให้ 3 ข้อนี้ทำไม่ได้ดังนั้นข้าม NAT ทำ peer to peer กันไม่ได้ ตัวอย่าง application ที่ไม่ทำงานกับ NAT เลย
 
-  ตัวอย่าง application นี้คือ Bitcoin\
+  ตัวอย่าง application นี้คือ Bitcoin @bitcoin-p2p \
   Bitcoin ไม่มี client-server ทุก node คือ peer และสิ่งที่ bitcoin ต้องการคือ \
   + public ip + port(8333)
   + peer สามารถ connect ได้หากันอยากอิสระ
   + Network topology ต้อง กระจายศูนย์
 
-  สรุป NAT ทำให้ bitcoin จาก node เป็น client สามารถโหลด sync leager ได้อย่างเดียวทำให้ bitcoin node เป็น client
+  สรุป NAT ทำให้ bitcoin จาก node เป็น client สามารถโหลด sync leager ได้อย่างเดียวทำให้ bitcoin node เป็น client @bitcoin-p2p
 

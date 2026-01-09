@@ -1,2 +1,11 @@
-https://developer.bitcoin.org/devguide/p2p_network.html
-https://www.firewall.cx/cisco/cisco-switches/dhcp-snooping-option-82-relay-agent-message-format-analysis.html
+bitcoin-p2p:
+  type: Web
+  title: "P2P Network — Bitcoin Developer Documentation"
+  author: "Bitcoin Project"
+  url: "https://developer.bitcoin.org/devguide/p2p_network.html"
+
+dhcp-option82:
+  type: Web
+  title: "DHCP Snooping & Option 82 Relay Agent Message Format Analysis"
+  author: "Firewall.cx"
+  url: "https://www.firewall.cx/cisco/cisco-switches/dhcp-snooping-option-82-relay-agent-message-format-analysis.html"
