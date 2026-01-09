@@ -1,5 +1,5 @@
 = Find an application (e.g. games) that does not work with NAT. Please explain why.
-  ต้องเข้าใจก่อนว่า NAT คืออะไร NAT (Network Address Translation) ทำหน้าที่
+  Ans: ต้องเข้าใจก่อนว่า NAT คืออะไร NAT (Network Address Translation) ทำหน้าที่
     + ซ่อน ip ภายใน local network
     + อนุญาติให้ connect เริ่มจากฝั่งด้านใน เท่านั้นห้ามเริ่ม connect จากฝั่งด้านนอก
 
